@@ -13,3 +13,9 @@ The tools that I use and recommend.
 ## Linux
 
 
+
+## Web
+
+- [Firefox](https://www.mozilla.org)
+- [Zed Attack Proxy](http://www.zaproxy.org/)
+
