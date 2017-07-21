@@ -9,6 +9,7 @@ The tools that I use and recommend.
 - [Notepad++](https://notepad-plus-plus.org/)
 - [ProcessHacker](http://processhacker.sourceforge.net/)
 - [Sysinternals](https://technet.microsoft.com/en-us/sysinternals/)
+- [VeraCrypt](https://www.veracrypt.fr)
 
 ## Linux
 
@@ -19,3 +20,12 @@ The tools that I use and recommend.
 - [Firefox](https://www.mozilla.org)
 - [Zed Attack Proxy](http://www.zaproxy.org/)
 
+
+
+
+## Malware
+
+- []()
+- []()
+- []()
+- []()
