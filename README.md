@@ -32,6 +32,8 @@ The tools that I use and recommend.
 - [arachni](http://www.arachni-scanner.com)
 - [beef](https://github.com/beefproject/beef)
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
+- [pelican](https://github.com/getpelican/pelican)
+- [OpenBSD httpd](https://github.com/reyk/httpd)
 - []()
 
 
