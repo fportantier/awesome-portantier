@@ -7,6 +7,7 @@ The tools that I use and recommend.
 
 - [NASM - Netwide Assembler](http://www.nasm.us)
 - [Python](https://www.python.org)
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Awesome GDB look & feel
 
 
 ## Windows
